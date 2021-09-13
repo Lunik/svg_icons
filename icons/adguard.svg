@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" height="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" viewBox="0 0 400 400" xml:space="preserve">
+  <g id="right">
+    <path d="M200+0 C280+0+350+20 395+45 C395+170+365+300 200+400 L200+0 Z" fill="#68bc71"/>
+  </g>
+  <g id="left">
+    <path d="M200+400 C35+300+5+170 5+45 C50+20+120+0 200+0 L200+400 Z" fill="#67b279"/>
+  </g>
+  <g id="check-mark">
+    <path d="M192+265 L106+166 L115+161 C120+158+128+154 140+157 C148+159+156+168 156+168 L191+210 L285+114 C285+114+291+108 294+106 C299+103+303+105 304+105 L309+107 L192+265 Z" fill="#ffffff"/>
+  </g>
+</svg>
